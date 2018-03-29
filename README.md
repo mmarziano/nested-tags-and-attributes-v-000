@@ -60,6 +60,7 @@ Both `<id>` and `<class>` attributes are often used for styling purposes since t
 	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
+<!--Just commenting-->
 
 ## Resources
 
